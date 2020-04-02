@@ -2,7 +2,7 @@
 OC - Gigabyte-X570-Aorus-Xtreme_rev1.0 - GC-Titan Ridge (NVM23E64fr)
 
 These are my OC folders for Gigabyte-X570-Aorus-Xtreme_rev1.0<br>
-I'm currently running Mac OS X Mojave 10.14.6 on n-d-k Opencore 0.5.7<br>
+I'm currently running Mac OS X Mojave 10.14.6 on n-d-k Opencore 0.5.7 but you will also find a 10.15.4 compatible EFI mirrored to the other except for AMD patches<br>
 
 Part of the SSDTs consists in patching USB (XHC0, XHC1, XHC2, XHCI & HXC4 for SSP1 & SSP2 on the GC-Titan Ridge PCIe Thunderbolt3 card.<br>
 • Proper Shutdown needs to be fixed in SSDT-X570-TB3-TTR.aml as it's lost when loaded.<br>
