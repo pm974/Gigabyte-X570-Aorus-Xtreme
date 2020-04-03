@@ -56,11 +56,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-X570-TB3-TTR.aml</string>
+				<string>SSDT-X570-TB3-TTR_V2.aml</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-X570-TB3-TTR.aml</string>
+				<string>SSDT-X570-TB3-TTR_V2.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
